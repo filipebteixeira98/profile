@@ -312,7 +312,11 @@ img {
   grid-template-columns: repeat(3, 1fr);
 }
 
-.skills__content {
+.languages__content {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.languages__content {
   gap: 0;
 }
 
@@ -353,10 +357,6 @@ img {
 
 .references__title {
   font-size: var(--h3-font-size);
-}
-
-.languages__content {
-  grid-template-columns: repeat(2, 1fr);
 }
 
 /* .interests__container {
