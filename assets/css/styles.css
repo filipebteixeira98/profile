@@ -71,7 +71,7 @@ img {
   padding: 1.5rem 0;
 }
 
-.section-title {
+.section__title {
   font-size: var(--h2-font-size);
   color: var(--title-color);
   font-weight: var(--font-semi-bold);
